@@ -1,1 +1,1 @@
-![Önizleme](https://github.com/AdemAkpinar/covid19-arama-motoru/blob/main/Readme.gif)
+![Önizleme](https://github.com/AdemAkpinar/covid19-aramaMotoru/blob/main/Readme.gif)
